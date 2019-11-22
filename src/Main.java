@@ -3,6 +3,10 @@ public class Main {
         String imie, nazwisko, adres;
         int wiek, wzrost, zarobki;
 
+
     }
+static void sayHello() {
+        System.out.println(" Hello !");
+}
 
 }
